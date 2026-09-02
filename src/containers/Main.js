@@ -47,7 +47,7 @@ const projectMedia = {
 "Axios"
 ],
     images: [
-    "/employee-management/dashboard.png",
+    "/employee-management/cover.png",
     "/employee-management/employees.png",
     "/employee-management/departments.png",
     ],
