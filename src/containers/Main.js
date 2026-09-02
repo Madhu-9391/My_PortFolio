@@ -32,8 +32,8 @@ const projectMedia = {
     "/smartqueue/admin.png"],
   },
   employeeManagement: {
-    live: "https://employee-management-system-ivory-iota.vercel.app/",
-    github: "https://github.com/Madhu-9391/Employee-Management-System",
+    live: "https://ems-system-ivory-iota.vercel.app/",
+    github: "https://github.com/Madhu-9391/ems-System",
     video: "",
     techStack: [
   "Java",
@@ -47,9 +47,9 @@ const projectMedia = {
 "Axios"
 ],
     images: [
-    "/employee-management/cover.png",
-    "/employee-management/employees.png",
-    "/employee-management/departments.png",
+    "/ems/cover.png",
+    "/ems/employees.png",
+    "/ems/departments.png",
     ],
   },
   jobOS: {
