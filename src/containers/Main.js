@@ -677,7 +677,7 @@ const Main = () => {
             <div className="tech-cloud">{['Java', 'Spring Boot', 'React', 'JavaScript', 'TypeScript', 'MySQL', 'MongoDB', 'REST APIs', 'JWT', 'WebSocket', 'Python', 'YOLOv8', 'Gemini API', 'Docker', 'Git', 'GitHub', 'Tailwind CSS'].map(t => <span key={t}>{t}</span>)}</div>
           </Section>
 
-          <Section id="about" eyebrow="ABOUT" title="A fresher with a production mindset." intro="I am completing my Computer Science degree and using my projects to deliberately move beyond tutorial-level development. I want to become the engineer who can take a real workflow from idea to a working product.">
+          <Section id="about" eyebrow="ABOUT" title="A fresher with a production mindset." intro="I completed my Computer Science degree and using my projects to deliberately move beyond tutorial-level development. I want to become the engineer who can take a real workflow from idea to a working product.">
             <div className="about-grid">
               <div className="about-panel"><div className="about-year">2022 — 2026</div><h3>PBR Visvodaya Institute of Technology and Science</h3><p>Bachelor of Science in Computer Science</p></div>
               <div className="about-panel"><div className="about-year">FOCUS</div><h3>Java Full Stack + AI/ML</h3><p>Backend engineering, frontend product development, data, APIs and intelligent application features.</p></div>
